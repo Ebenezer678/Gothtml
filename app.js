@@ -307,7 +307,7 @@ console.log("You have no cash");
 
 
 
-let ages = 18.99;
+let ages = 18.9;
 if (ages <= 18) {
     console.log ("you are a minorrrrrrr")
 } else if (ages === 18) {
